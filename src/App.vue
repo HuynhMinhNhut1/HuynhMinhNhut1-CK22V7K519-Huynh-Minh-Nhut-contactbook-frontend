@@ -6,7 +6,6 @@ export default {
   },
 };
 </script>
-
 <template>
   <div id="app">
     <AppHeader />
@@ -15,7 +14,6 @@ export default {
     </div>
   </div>
 </template>
-
 <style>
 .page {
   max-width: 400px;
